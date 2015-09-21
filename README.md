@@ -1,5 +1,6 @@
 # Hybris.tmBundle
-Textmate Bundle for Hybris. Should work with any version of TextMate on Mac OS.
+Textmate Bundle for Hybris. Should work with any version of TextMate on Mac OS. 
+Compatible with all themes!
 
 V0.2/09212015:
 - language grammar for Impex.
