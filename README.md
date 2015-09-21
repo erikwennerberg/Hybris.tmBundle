@@ -14,4 +14,8 @@ V0.2/09212015:
 
 5) Enjoy
 
+TextMate bundles can also be converted to the Atom format:
+
+https://atom.io/docs/v0.92.0/converting-a-text-mate-bundle
+
 ![alt tag](https://github.com/erikwennerberg/Hybris.tmBundle/blob/master/Hybris.tmBundle.png)
